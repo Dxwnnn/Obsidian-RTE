@@ -198,8 +198,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "79b9075b3a09b4f8",
+  "active": "81f0409eb41410b8",
   "lastOpenFiles": [
+    "test.md",
     "versions.json",
     "version-bump.mjs",
     "tsconfig.json",
@@ -210,10 +211,8 @@
     "package-lock.json",
     "manifest.json",
     "eslint.config.mts",
-    "esbuild.config.mjs",
     "readme.md",
     "AGENTS.md",
-    "test.md",
     "Willkommen.md"
   ]
 }
